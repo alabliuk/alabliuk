@@ -3,7 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alabliuk&show_icons=true&theme=default&count_private=true&role=OWNER,COLLABORATOR)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alabliuk&layout=compact&langs_count=10)
+<!-- Erro na contagem de linguagem -> jupyter esta com +80% -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alabliuk&layout=compact&langs_count=10) -->
 
 <!--
 **alabliuk/alabliuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
